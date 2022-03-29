@@ -1,2 +1,1 @@
-# ll
-ll
+# pro-c25-template
